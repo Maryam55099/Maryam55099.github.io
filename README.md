@@ -1,4 +1,4 @@
-# Portfolio - Maryam Sindu (Intro Mark-Up)
+# Portfolio - Maryam Sindhu (Intro Mark-Up)
 
 Introduction to HTML - 
 I have had previous experience with HTML, as building simple and visually appealing websites was something always so intriguing to me. On the other hand, because of the Khan Academy course and the following YouTube video: LINK
